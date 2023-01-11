@@ -1,4 +1,4 @@
-## Bem vindo Dev !😀
+## Bem vindo Dev ! :smile:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davi_felix00/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-felix-b5b3a3204/)
 
@@ -21,5 +21,5 @@
 </div>
 <br>
 
-<h3 align="center"> <b>Todos veem o que você parece ser, mas poucos sabem o que você realmente é.</b>
-</h3>
+<h4 align="center"> <b>Todos veem o que você parece ser, mas poucos sabem o que você realmente é.</b>
+</h4>
