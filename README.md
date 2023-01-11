@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-felix-b5b3a3204/)
 
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviFelixMatias010&show_icons=true&theme=dracula)
+![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviFelixMatias010&show_icons=true&theme=github_dark)
 
 ## Tech 
 
