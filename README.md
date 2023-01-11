@@ -21,4 +21,5 @@
 </div>
 <br>
 
-### Tentando evoluir a cada dia ! 
+<h3 align="center"> <b>Todos veem o que você parece ser, mas poucos sabem o que você realmente é.</b>
+</h3>
