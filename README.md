@@ -1,4 +1,4 @@
-## Bem vindo Dev ! :smile: :computer:
+## Bem vindo  :smile: :computer:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davi_felix00/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-felix-b5b3a3204/)
 
