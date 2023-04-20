@@ -23,5 +23,5 @@
 </div>
 <br>
 
-<h4 align="center" font-family: Georgia, 'Times New Roman', Times, serif;> <b>Todos veem o que você parece ser, mas poucos sabem o que você realmente é.</b>
+<h4 align="center" font-family: Georgia, 'Times New Roman', Times, serif;> <b> Open your arms and I’ll fly out of hell up to you</b>
 </h4>
