@@ -15,7 +15,7 @@
 <br> 
 <div>
 <h2> Familiaridade com as tecnologias: :computer:</h2>
-<p align="center">
+<p align="begin">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,mysql,vscode" />
   </a>
@@ -23,20 +23,21 @@
 </div>
 <br>
 <h2>Estou aprendendo: 👨‍💻</h2>
-<p align="center"> 
+<p align="begin"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express" />
   </a>
 </p>
 <br>
 
+![giphy (1)](https://github.com/DaviFelixMatias010/DaviFelixMatias010/assets/122411378/140e492c-7806-4489-8b63-2e18a2fc30e1)
+
 #### - Redes sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/davi_felix00/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/davi-felix-b5b3a3204/)
 
-<p align="center">Escolhas dificeis exigem determinação forte 👿 </p>
 
-![f6b08efbe82b77db463cee9770223d5e](https://github.com/DaviFelixMatias010/DaviFelixMatias010/assets/122411378/8b6a1026-0b26-4020-98fc-5228316ce5e5) 
+<p align="center">Escolhas dificeis exigem determinação forte 👿 </p>
 
 <img width src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&&section=footer&reversal=false&fontAlign=48&descAlign=60&fontColor=">
 
