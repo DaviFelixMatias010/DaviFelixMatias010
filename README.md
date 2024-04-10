@@ -19,5 +19,6 @@
 
 <p align="center">Escolhas dificeis exigem determinação forte 👿 </p>
 
+![f6b08efbe82b77db463cee9770223d5e](https://github.com/DaviFelixMatias010/DaviFelixMatias010/assets/122411378/8b6a1026-0b26-4020-98fc-5228316ce5e5) 
 
 <img width src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&&section=footer&reversal=false&fontAlign=48&descAlign=60&fontColor=">
