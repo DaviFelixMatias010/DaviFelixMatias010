@@ -5,7 +5,7 @@
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviFelixMatias010&show_icons=true&theme=github_dark)
 ## Estudando :computer:
-<h3 text-align="center">Ola, sou o Davi e estou constantemente tentando me aperfeiçoar nas tecnologias para futuramente me tornar um profissional habilidoso na area de desenvolvimento 😃👨‍💻</h3>
+<h3 text-align="center">Ola, sou o Davi e estou constantemente tentando me aperfeiçoar nas tecnologias para me tornar um profissional habilidoso na area de desenvolvimento 😃👨‍💻</h3>
 
 <br> 
 
