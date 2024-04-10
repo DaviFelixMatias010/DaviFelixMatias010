@@ -9,7 +9,7 @@
   <br>
   <h3 align="center">Ola, sou o Davi e estou constantemente tentando me aperfeiçoar nas tecnologias para me tornar um profissional habilidoso na area de desenvolvimento 😃👨‍💻</h3>
 </div>
-  <br> 
+<br> 
 <div>
   <h2> Familiaridade com as tecnologias: :computer:</h2>
   <p align="begin">
@@ -18,7 +18,7 @@
     </a>
   </p>
 </div>
-  <br>
+<br>
   <h2>Estou aprendendo: 👨‍💻</h2>
   <p align="begin"> 
     <a href="https://skillicons.dev">
