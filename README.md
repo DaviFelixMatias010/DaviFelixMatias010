@@ -34,7 +34,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/davi-felix-b5b3a3204/)
 
 
-<h2 align="center">Escolhas dificeis exigem determinação forte 👿 
+<h2 align="center"> Escolhas difíceis requerem determinação forte 👿 
 <img width src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&&section=footer&reversal=false&fontAlign=48&descAlign=60&fontColor=">
 </h2>
 
