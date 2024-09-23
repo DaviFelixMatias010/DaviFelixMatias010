@@ -22,7 +22,7 @@
   <h2>Estou aprendendo: 👨‍💻</h2>
   <p align="begin"> 
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,blender" />
     </a>
   </p>
 <br>
